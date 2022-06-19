@@ -1,0 +1,4 @@
+This was a University project implementing coding&deconding function with help of Lempel-Ziv-Welch Compression Algorithm.
+The task of the LZW algorithm is to compress long character strings to save disk space and transmission bandwidth. The aim is to represent strings of characters that are as long as possible with an index value. This works all the better the more often identical character strings occur in the input data stream (Redundancy).
+The basis of the algorithm is a dictionary, which z. B. can be efficiently implemented using hashing as an array or as a tree.
+More about LZW algorithm: https://de.wikipedia.org/wiki/Lempel-Ziv-Welch-Algorithmus
